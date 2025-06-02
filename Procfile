@@ -1,1 +1,1 @@
-web: java -jar target/service-one.jar --server.port=$PORT
+web: java -jar service-one/target/service-one.jar --server.port=$PORT
